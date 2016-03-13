@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[Simple Happiness]]></title>
+  <subtitle><![CDATA[我的个人博客]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2016-01-08T01:15:30.377Z</updated>
+  <id>http://yoursite.com/</id>
+
+  <author>
+    <name><![CDATA[Simple Happiness]]></name>
+
+  </author>
+
+  <generator uri="http://hexo.io/">Hexo</generator>
+</feed>
