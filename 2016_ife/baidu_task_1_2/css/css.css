@@ -1,0 +1,42 @@
+body{background-color: #222;padding: 0;margin: 0;font-size: 14px;}
+#wrap{margin:0 30px;background-color: #DEDEDE;}
+#header{background-color: #333;height: 60px;}
+#header img{line-height: 60px;display: inline-block;margin-left: 40px;margin-top: 5px;}
+#header ul{float: right;}
+#header ul li{float:left;margin-right: 20px;}
+#header ul li a{text-decoration: none;color:#fff;}
+
+#content article,aside{margin: 20px;border: 1px solid #ccc;background:#fff;
+    padding:20px;box-shadow: 2px 2px 1px #888;}
+#content article p{text-indent: 30px;}
+#content article ul li{list-style: none;}
+
+.article3 .box{width: 120px;height125px;
+    border:1px solid #ccc;margin-bottom: 15px;margin-left: 40px;}
+.article3 .box span{text-align: center;display:block;margin-top: 10px;}
+.article3 .innerbox{margin:10px auto;width:100px;height:80px;}
+
+.article4 table{width:100%;text-align:center;border-top: 1px solid #ccc;
+    border-left: 1px solid #ccc;}
+.article4 table>thead{background:#333;color:#fff;}
+.article4 table tr td,{background:#333;color:#fff;}
+.article4 table tr.sum{background:#ccc;}
+.article4 table tr td,
+.article4 table tr th {
+    border-right: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+}
+
+
+aside form{width:100%;height:100%;}
+aside h3{
+    border-left: 3px solid #ccc;height:40px;padding-left: 15px;line-height: 40px;
+}
+aside form > table tbody tr td:first-child {
+    width: 40%;
+    text-align: right;
+}
+aside form > table tbody tr:last-child td { vertical-align: top; }
+#content aside #sub{background:#3355D0;color:#fff;width:100%;padding:10px;font-size: 16px;
+border-radius: 10px;font-weight: bold;cursor: pointer;}
+#footer{text-align: center;color:#fff;line-height: 70px;height:70px;background:#000;}
